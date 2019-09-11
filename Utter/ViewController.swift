@@ -145,7 +145,3 @@ class ViewController: UIViewController {
     }
 }
 
-extension ViewController:SFSpeechRecognizerDelegate {
-    
-}
-
